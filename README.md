@@ -1,4 +1,4 @@
-# wikibox
+# wikibox Application
 
 ### 주요 4가지 기능
 #### 1. 세탁 
